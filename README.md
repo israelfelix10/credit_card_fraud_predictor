@@ -150,7 +150,7 @@ As seguintes visualizações estão disponíveis no notebook:
 - **Correlações baixas**: nenhuma feature isolada é forte preditora de fraude
 - **Diferenças visuais**: v11, v4 e v2 mostram distribuições distintas entre classes
 - **Valor da transação**: baixa correlação com fraude (0,0056)
-- **Necessidades para modelagem**: técnicas para lidar com desbalanceamento e métricas apropriadas (não usar acurácia)
+- **Necessidades para modelagem**: técnicas para lidar com desbalanceamento e métricas apropriadas (não usar acurácia como principal métrica de desempenho)
 
 ## Como usar o modelo
 
